@@ -4,7 +4,7 @@
 [![Support me](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fpitu&style=flat-square)](https://www.patreon.com/pitu)
 [![Support me](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee-yellow.svg?style=flat-square)](https://www.buymeacoffee.com/kana)
 
-# lolisafe, a small safe worth protecting.
+# lolisafe, a small safe worth protecting. Totally legal!
 
 ## What's new in v3.0.0
 - Backend rewrite to make it faster, better and easier to extend
